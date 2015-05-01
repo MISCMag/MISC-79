@@ -1,4 +1,4 @@
-MISC numéro 77 - Janvier 2015
+MISC numéro 79 - Mai 2015
 =======
 
 ### Ramonage de vulns avec mona.py
