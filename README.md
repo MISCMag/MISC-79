@@ -11,19 +11,19 @@ Plutôt que de présenter toutes ses possibilités unes par unes, nous allons à
 Merci à Alexandre, André (@andremoulu), Fred (@FredzyPadzy), Inti (@SalasRossenbach) Jérôme (JLeonard), l'équipe MISC (@MISCRedac), Mohamed, Peter (@corelanc0d3r), Saâd (@_saadk) et Thomas pour la relecture et l'inspiration.
 
 #### Les liens
--[1] https://github.com/corelan/mona
--[2] https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
--[3] https://www.corelan.beHYPERLINK "https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/"/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/
--[4] https://www.corelan.be/index.HYPERLINK "https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/"php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/
--[5] https://www.hackinparis.com/slides/hip2k11/04-ProjectQuebec.pdf
--[6] https://www.corelan.be/index.php/2010/01/26/starting-to-write-immunity-debugger-pycommands-my-cheatsheet/
--[7] http://www.vmware.com/fr/products/player
--[8] https://github.com/corelan/windbglib
--[9] http://www.exploit-db.com/exploits/35177
--[10] http://www.exploit-db.com/exploits/31643
--[11] https://community.rapid7.com/community/metasploit/blog/2014/12/09/good-bye-msfpayload-and-msfencode
--[12] https://github.com/MISCMag/MISC-79
--[13] https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/
+- [1] https://github.com/corelan/mona
+- [2] https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+- [3] https://www.corelan.beHYPERLINK "https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/"/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/
+- [4] https://www.corelan.be/index.HYPERLINK "https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/"php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/
+- [5] https://www.hackinparis.com/slides/hip2k11/04-ProjectQuebec.pdf
+- [6] https://www.corelan.be/index.php/2010/01/26/starting-to-write-immunity-debugger-pycommands-my-cheatsheet/
+- [7] http://www.vmware.com/fr/products/player
+- [8] https://github.com/corelan/windbglib
+- [9] http://www.exploit-db.com/exploits/35177
+- [10] http://www.exploit-db.com/exploits/31643
+- [11] https://community.rapid7.com/community/metasploit/blog/2014/12/09/good-bye-msfpayload-and-msfencode
+- [12] https://github.com/MISCMag/MISC-79
+- [13] https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/
 
 #### L'exploit iftp.py (chapitre 4.3)
 ```
